@@ -1,4 +1,4 @@
-# Impacts of EV residential charging and charging stations on quasi-static time-series PV hosting capacity <img src="https://skillicons.dev/icons?i=python" />
+# Impacts of EV residential charging and charging stations on quasi-static time-series PV hosting capacity <img src="https://skillicons.dev/icons?i=python" /><img src="https://github.com/letfritz/DER-SmartCampus/assets/161434060/4696e7f4-d998-4032-8fb5-ad344b01b02e" style="max-width: 50%; height: 50px;">
 
 <div align="center"><br/>
   <div style="display: inline-block;">
